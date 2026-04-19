@@ -1,0 +1,3 @@
+To create a folder in GitHub repo:
+1. Drag and drop the folder within the branch and commit to see the new folder
+2. Click on Add file in the branch and type folderName/readme.md then it will automatically consider it as folder within the branch
