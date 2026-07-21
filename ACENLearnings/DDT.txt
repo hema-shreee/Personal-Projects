@@ -1,0 +1,7 @@
+DDT
+Creat a testng class .
+in test
+XSSFWorkBook workbook = new XSSFWorkBook();
+XSSFSheet sheet1 = workBook.creatSheet("TestData");
+
+FileOutputStream out = new FileOutputStream(new File("NewExcelFile.xlsx"));
